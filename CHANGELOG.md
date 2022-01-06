@@ -1,6 +1,6 @@
 ## 4.3.2
 
--  Fix: typo in BIN9_QUERYLOG pattern (in ECS mode) [#307](https://github.com/logstash-plugins/logstash-patterns-core/pull/307)
+- Fix: typo in BIN9_QUERYLOG pattern (in ECS mode) [#307](https://github.com/logstash-plugins/logstash-patterns-core/pull/307)
 
 ## 4.3.1
 
